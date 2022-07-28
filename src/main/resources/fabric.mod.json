@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "vilplusmod",
-  "version": "${1.0.0}",
+  "version": "${0.0.1}",
 
   "name": "Villagers+ Mod",
   "description": "This mod adds new villagers! Idea: from wattles and he's viewers",
@@ -10,7 +10,7 @@
   ],
   "contact": {
     "homepage": "https://https://curseforge.com/minecraft/mc-mods/vilplusmod",
-    "sources": "https://github.com/echonyx/villagers-plus-mod"
+    "sources": "https://github.com/ech0nyx/villagers-plus-mod"
   },
 
   "license": "MIT License",
